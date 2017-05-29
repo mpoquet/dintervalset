@@ -1,11 +1,12 @@
 {
 	"name": "dintervalset",
 	"authors": [
-		"Millian Poquet"
+		"Millian Poquet <millian.poquet@gmail.com>"
 	],
     "dependencies": {
     },
 	"description": "A library to handle closed intervals of integers in D",
 	"copyright": "Copyright © 2017, Millian Poquet",
+    "targetType": "library",
 	"license": "GPL"
 }
